@@ -1,5 +1,5 @@
 ---
-date: 2017-04-14T11:25:05-04:00
+date: 2017-04-14T11:25:05-04:00 
 description: "SALENTO"
 featured_image: "/images/cocora-valley.jpg"
 tags: ["scene", "test", "quindio"]
