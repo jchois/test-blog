@@ -5,6 +5,7 @@ featured_image: "/images/cocora-valley.jpg"
 tags: ["scene", "test", "quindio"]
 title: "GUIDE TO SALENTO: A TOWN WITH CULTURE, COFFEE AND CHARM"
 ---
+
 Depending on who you talk to, a trip to Salento, Colombia can bring up different reactions.
 
 After telling one friend I was headed to Colombia, he gave me a hug and told me how excited he was for me to meet the friendliest people in the world and experience the vibrant culture of his home country.

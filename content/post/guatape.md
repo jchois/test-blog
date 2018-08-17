@@ -6,7 +6,7 @@ tags: ["scene", "test", "antioquia"]
 title: "OUR GUIDE TO GUATAPÉ: THE MOST COLOURFUL TOWN IN COLOMBIA"
 ---
 
-**CLIMB EL PEÑOL FOR A GREAT VIEW**
+## CLIMB EL PEÑOL FOR A GREAT VIEW
 
 The whole area was flooded in the 1970s to make way for a huge hydro-electric dam. This resulted in a village or two being relocated and tourism having a much bigger role to play in the economy given that all the fields were, well, submerged. 
 

@@ -6,7 +6,7 @@ tags: []
 title: "CARTAGENA COLOMBIA DAY TRIPS"
 ---
 
-ICartagena, Colombia was the first city of our three month backpacking trip after we quit our jobs. It will always hold a special place in our hearts. 
+Cartagena, Colombia was the first city of our three month backpacking trip after we quit our jobs. It will always hold a special place in our hearts. 
 
 Our travels in and around Cartagena were amazing, and we have truly fallen in love with this city of brightly colored buildings, delicious food, and amazingly kind people who have so much pride for their home.
 
